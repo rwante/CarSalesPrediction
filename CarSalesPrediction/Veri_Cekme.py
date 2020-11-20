@@ -1,5 +1,6 @@
 import requests
 from lxml import html
+from openpyxl import Workbook,load_workbook
 
 def araba_marka_cekme():
     url = "https://www.arabam.com/ikinci-el/otomobil/"
@@ -37,46 +38,50 @@ def araba_ozel(araba_markalari):
                 except:
                     pass
 def araba_ozellik_cekme():
-    for i in range(1,2):
+    wb = load_workbook("Veri.xlsx")
+    ws = wb.active
+    ws.append(["Marka", "Seri", "Model","Yil","Yakit","Vites","Motor Hacmi","Motor Gücü","Km","Ilan Tarihi","Fiyat"])
+    for i in range(1,19):
         dosya_ismi = str(i)
         dosya = open(dosya_ismi,"r")
-        for j in range(1,1001):
-            url = 'https://www.arabam.com'+dosya.readline()
-            r = requests.get(url)
-            tree = html.fromstring(r.content)
-            marka_xpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[3]/span[2]'
-            seri_xpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[4]/span[2]'
-            model_xpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[5]/span[2]'
-            yil_xpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[6]/span[2]'
-            yakit_xpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[7]/span[2]'
-            vites_xpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[8]/span[2]'
-            motorhacmi_xpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[9]/span[2]'
-            motorgücü_xpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[10]/span[2]'
-            km_xpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[11]/span[2]'
-            tarih_xpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[2]/span[2]'
-            fiyat_xpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/div[1]/div/span'
-            sonuc_marka = tree.xpath(marka_xpath)
-            sonuc_seri = tree.xpath(seri_xpath)
-            sonuc_model = tree.xpath(model_xpath)
-            sonuc_yil = tree.xpath(yil_xpath)
-            sonuc_yakit = tree.xpath(yakit_xpath)
-            sonuc_vites = tree.xpath(vites_xpath)
-            sonuc_motorh = tree.xpath(motorhacmi_xpath)
-            sonuc_motorg = tree.xpath(motorgücü_xpath)
-            sonuc_km = tree.xpath(km_xpath)
-            sonuc_tarih = tree.xpath(tarih_xpath)
-            sonuc_fiyat = tree.xpath(fiyat_xpath)
-            print(sonuc_marka)
-            print(sonuc_seri)
-            print(sonuc_model)
-            print(sonuc_yil)
-            print(sonuc_yakit)
-            print(sonuc_vites)
-            print(sonuc_motorh)
-            print(sonuc_motorg)
-            print(sonuc_km)
-            print(sonuc_tarih)
-            print(sonuc_fiyat)
+        for j in range(1,1000):
+            try:
+
+                url = 'https://www.arabam.com'+dosya.readline().rstrip()
+                r = requests.get(url)
+                tree = html.fromstring(r.content)
+                fiyatxpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/div[1]/div/span'
+                markaxpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[3]/span[2]'
+                serixpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[4]/span[2]'
+                modelxpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[5]/span[2]'
+                yilxpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[6]/span[2]'
+                yakitxpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[7]/span[2]'
+                vitesxpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[8]/span[2]'
+                motorhxpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[9]/span[2]'
+                motorgxpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[10]/span[2]'
+                kmxpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[11]/span[2]'
+                ilantxpath = '//*[@id="js-hook-for-observer-detail"]/div[2]/ul/li[2]/span[2]'
+                sonucfiyat = tree.xpath(fiyatxpath)
+                sonucmarka = tree.xpath(markaxpath)
+                sonucseri = tree.xpath(serixpath)
+                sonucmodel = tree.xpath(modelxpath)
+                sonucyil = tree.xpath(yilxpath)
+                sonucyakit = tree.xpath(yakitxpath)
+                sonucvites = tree.xpath(vitesxpath)
+                sonucmotorh = tree.xpath(motorhxpath)
+                sonucmotorg = tree.xpath(motorgxpath)
+                sonuckm = tree.xpath(kmxpath)
+                sonucilant = tree.xpath(ilantxpath)
+
+                ws.append([sonucmarka[0].text,sonucseri[0].text,sonucmodel[0].text,sonucyil[0].text,sonucyakit[0].text,
+                           sonucvites[0].text,sonucmotorh[0].text,sonucmotorg[0].text,sonuckm[0].text,sonucilant[0].text,
+                           sonucfiyat[0].text])
+
+            except:
+                pass
+    wb.save("Veri.xlsx")
+    wb.close()
+
 
 
 
