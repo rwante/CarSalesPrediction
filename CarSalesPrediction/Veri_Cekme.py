@@ -40,7 +40,7 @@ def araba_ozel(araba_markalari):
 def araba_ozellik_cekme():
     wb = load_workbook("Veri.xlsx")
     ws = wb.active
-    ws.append(["Marka", "Seri", "Model","Yil","Yakit","Vites","Motor Hacmi","Motor Gücü","Km","Ilan Tarihi","Fiyat"])
+    ws.append(["Marka", "Seri", "Model","Yil","Yakit","Vites","Motor Hacmi","Motor Gücü","Km","Ilan Tarihi","Fiyat", "Renk"])
     for i in range(1,19):
         dosya_ismi = str(i)
         dosya = open(dosya_ismi,"r")
@@ -72,7 +72,6 @@ def araba_ozellik_cekme():
                 sonucmotorg = tree.xpath(motorgxpath)
                 sonuckm = tree.xpath(kmxpath)
                 sonucilant = tree.xpath(ilantxpath)
-
                 ws.append([sonucmarka[0].text,sonucseri[0].text,sonucmodel[0].text,sonucyil[0].text,sonucyakit[0].text,
                            sonucvites[0].text,sonucmotorh[0].text,sonucmotorg[0].text,sonuckm[0].text,sonucilant[0].text,
                            sonucfiyat[0].text])
@@ -86,5 +85,5 @@ def araba_ozellik_cekme():
 
 
 #araba_ozel(araba_marka_cekme())
-araba_ozellik_cekme()
+#araba_ozellik_cekme()
 

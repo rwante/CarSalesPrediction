@@ -1,0 +1,100 @@
+Marka;Seri;Model;Yil;Yakit;Vites;Motor Hacmi;Motor Gücü;Km;Ilan Tarihi;Fiyat
+ Audi   ; A4   ; A4 Sedan 1.4 TFSI   ; 2017   ; Benzin   ; Yarı Otomatik   ; 1201 - 1400 cm3   ; 126 - 150 HP   ;22000; 17 Kasım 2020   ;415000
+ Audi   ; A6   ; A6 Sedan 2.0 TDI Quattro   ; 2016   ; Dizel   ; Yarı Otomatik   ; 1968 cc   ; 190 hp   ;83000; 16 Kasım 2020   ;597750
+ Audi   ; A6   ; A6 Sedan 2.0 TDI   ; 2013   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 176 - 200 HP   ;205000; 14 Kasım 2020   ;375000
+ Audi   ; A4   ; A4 Sedan 1.4 TFSI   ; 2018   ; Benzin   ; Yarı Otomatik   ; 1395 cc   ; 150 hp   ;34210; 14 Kasım 2020   ;430000
+ Audi   ; A6   ; A6 Sedan 3.0 TDI Quattro   ; 2016   ; Dizel   ; Yarı Otomatik   ; 2967 cc   ; 272 hp   ;89188; 13 Kasım 2020   ;757000
+ Audi   ; A4   ; A4 Sedan 1.4 TFSI   ; 2016   ; Benzin   ; Yarı Otomatik   ; 1201 - 1400 cm3   ; 126 - 150 HP   ;92185; 13 Kasım 2020   ;319000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Dynamic   ; 2017   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 116 hp   ;32650; 13 Kasım 2020   ;314000
+ Audi   ; A3   ; A3 Sportback 1.6 TDI Attraction   ; 2016   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;125737; 13 Kasım 2020   ;242900
+ Audi   ; A3   ; A3 Sportback 1.6 TDI Attraction   ; 2016   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;109829; 13 Kasım 2020   ;244900
+ Audi   ; A6   ; A6 Sedan 3.0 TDI Quattro   ; 2016   ; Dizel   ; Yarı Otomatik   ; 2967 cc   ; 272 hp   ;130000; 13 Kasım 2020   ;720000
+ Audi   ; A6   ; A6 Sedan 2.0 TDI   ; 2011   ; Dizel   ; Otomatik   ; 1968 cc   ; 170 hp   ;180000; 12 Kasım 2020   ;222000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2015   ; Dizel   ; Otomatik   ; 1968 cc   ; 150 hp   ;168000; 12 Kasım 2020   ;305000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Dynamic   ; 2016   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;66000; 12 Kasım 2020   ;286750
+ Audi   ; A6   ; A6 Sedan 2.0 TDI   ; 2012   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 176 - 200 HP   ;215000; 12 Kasım 2020   ;376500
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Attraction   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;115000; 10 Kasım 2020   ;247000
+ Audi   ; A3   ; A3 Sportback 1.6 TDI Attraction   ; 2012   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 105 hp   ;209000; 08 Kasım 2020   ;155000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Ambiente   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;72000; 08 Kasım 2020   ;324000
+ Audi   ; A6   ; A6 Sedan 2.0 TDI Quattro   ; 2016   ; Dizel   ; Yarı Otomatik   ; 1968 cc   ; 190 hp   ;89932; 05 Kasım 2020   ;619000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI Quattro Dynamic   ; 2016   ; Dizel   ; Yarı Otomatik   ; 1968 cc   ; 190 hp   ;215000; 05 Kasım 2020   ;359500
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Attraction   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;83000; 04 Kasım 2020   ;275000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI Advanced   ; 2020   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 176 - 200 HP   ;6500; 02 Kasım 2020   ;645000
+ Audi   ; A3   ; A3 Sportback 1.6 TDI Ambiente   ; 2014   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 105 hp   ;41000; 01 Kasım 2020   ;279900
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2013   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 176 - 200 HP   ;164000; 10 Ekim 2020   ;257900
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2014   ; Dizel   ; Otomatik   ; 1968 cc   ; 150 hp   ;269000; 17 Kasım 2020   ;245000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI Sport   ; 2017   ; Dizel   ; Yarı Otomatik   ; 1968 cc   ; 190 hp   ;67000; 17 Kasım 2020   ;490000
+ Audi   ; A3   ; A3 Sportback 1.6 Attraction   ; 2008   ; Benzin   ; Yarı Otomatik   ; 1401 - 1600 cm3   ; 101 - 125 HP   ;88800; 17 Kasım 2020   ;159500
+ Audi   ; A5   ; A5 Sportback 1.4 TFSI   ; 2018   ; Benzin   ; Yarı Otomatik   ; 1395 cc   ; 150 hp   ;40000; 17 Kasım 2020   ;715000
+ Audi   ; A6   ; A6 Sedan 2.0 TDI   ; 2010   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 151 - 175 HP   ;310000; 17 Kasım 2020   ;200000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Ambition   ; 2013   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 105 hp   ;165000; 17 Kasım 2020   ;275000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Ambition   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;119750; 17 Kasım 2020   ;296000
+ Audi   ; A3   ; A3 Sportback 1.4 TFSI Ambition   ; 2010   ; Benzin   ; Yarı Otomatik   ; 1390 cc   ; 125 hp   ;181000; 17 Kasım 2020   ;146000
+ Audi   ; A5   ; A5 Sportback 2.0 TDI   ; 2014   ; Dizel   ; Otomatik   ; 1968 cc   ; 177 hp   ;117000; 17 Kasım 2020   ;415000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Ambition   ; 2014   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;148000; 17 Kasım 2020   ;262000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2012   ; Dizel   ; Otomatik   ; 1968 cc   ; 177 hp   ;165000; 17 Kasım 2020   ;257000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Ambition   ; 2014   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;150000; 17 Kasım 2020   ;267900
+ Audi   ; A5   ; A5 Sportback 2.0 TDI   ; 2015   ; Dizel   ; Otomatik   ; 1968 cc   ; 177 hp   ;140000; 17 Kasım 2020   ;445000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2012   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 176 - 200 HP   ;184000; 17 Kasım 2020   ;240000
+ Audi   ; A3   ; A3 Sportback 1.6 TDI Attraction   ; 2012   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 105 hp   ;128000; 17 Kasım 2020   ;187500
+ Audi   ; A3   ; A3 Sportback 1.6 TDI Ambition   ; 2016   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;70000; 17 Kasım 2020   ;320000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Ambiente   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;57000; 17 Kasım 2020   ;313000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1968 cc   ; 190 hp   ;120000; 17 Kasım 2020   ;338000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Ambition   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;147000; 17 Kasım 2020   ;271000
+ Audi   ; A3   ; A3 Sportback 1.6 TDI Attraction   ; 2012   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 105 hp   ;145000; 17 Kasım 2020   ;187900
+ Audi   ; A3   ; A3 Sedan 1.0 TFSI Dynamic   ; 2017   ; Benzin   ; Yarı Otomatik   ; 999 cc   ; 116 hp   ;33000; 17 Kasım 2020   ;304500
+ Audi   ; A4   ; A4 Sedan 2.0 TFSI Quattro   ; 2006   ; Benzin   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 176 - 200 HP   ;193000; 17 Kasım 2020   ;164000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Dynamic   ; 2017   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;31000; 17 Kasım 2020   ;312000
+ Audi   ; A3   ; A3 Sportback 1.6 Attraction   ; 2005   ; LPG & Benzin   ; Otomatik   ; 1595 cc   ; 102 hp   ;230000; 17 Kasım 2020   ;105000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2014   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 126 - 150 HP   ;95000; 17 Kasım 2020   ;330000
+ Audi   ; A3   ; A3 Sportback 1.4 TFSI Attraction   ; 2010   ; Benzin   ; Yarı Otomatik   ; 1390 cc   ; 125 hp   ;193000; 17 Kasım 2020   ;144000
+ Audi   ; A3   ; A3 Sedan 1.4 TFSI Ambiante   ; 2014   ; Benzin   ; Yarı Otomatik   ; 1395 cc   ; 125 hp   ;140000; 17 Kasım 2020   ;268000
+ Audi   ; A3   ; A3 Sportback 1.6 TDI Ambiente   ; 2012   ; Dizel   ; Yarı Otomatik   ; 1401 - 1600 cm3   ; 101 - 125 HP   ;118000; 17 Kasım 2020   ;220000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Ambition   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;93000; 17 Kasım 2020   ;288000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Ambiente   ; 2014   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;150000; 17 Kasım 2020   ;279000
+ Audi   ; A3   ; A3 Sportback 1.6 TDI Attraction   ; 2012   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 105 hp   ;109000; 17 Kasım 2020   ;217000
+ Audi   ; A5   ; A5 Coupe 2.0 TFSI Quattro   ; 2010   ; Benzin   ; Yarı Otomatik   ; 1984 cc   ; 211 hp   ;199000; 17 Kasım 2020   ;227900
+ Audi   ; A3   ; A3 Sedan 35 TFSI Sport   ; 2020   ; Benzin   ; Yarı Otomatik   ; 1498 cc   ; 150 hp   ;3500; 17 Kasım 2020   ;370000
+ Audi   ; A3   ; A3 Sportback 1.6 TDI Attraction   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;132000; 17 Kasım 2020   ;248000
+ Audi   ; A6   ; A6 Sedan 2.0 TDI   ; 2008   ; Dizel   ; Otomatik   ; 1968 cc   ; 140 hp   ;230000; 17 Kasım 2020   ;195000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2012   ; Dizel   ; Otomatik   ; 1968 cc   ; 177 hp   ;275000; 17 Kasım 2020   ;217500
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2014   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 126 - 150 HP   ;156000; 17 Kasım 2020   ;293250
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Ambiente   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;180000; 17 Kasım 2020   ;265000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Ambiente   ; 2013   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 105 hp   ;112000; 17 Kasım 2020   ;219750
+ Audi   ; A4   ; A4 Sedan 1.6   ; 2003   ; LPG & Benzin   ; Düz   ; 1595 cc   ; 102 hp   ;178000; 17 Kasım 2020   ;96750
+ Audi   ; A3   ; A3 Sportback 1.4 TFSI Ambition   ; 2010   ; Benzin   ; Düz   ; 1390 cc   ; 125 hp   ;30000; 17 Kasım 2020   ;133000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Design Line   ; 2017   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;100000; 17 Kasım 2020   ;315000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Design Line   ; 2017   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;106000; 17 Kasım 2020   ;318500
+ Audi   ; A6   ; A6 Sedan 2.5 TDI Quattro   ; 2004   ; Dizel   ; Otomatik   ; 2496 cc   ; 180 hp   ;430000; 17 Kasım 2020   ;89500
+ Audi   ; A4   ; A4 Sedan 2.0 TDI Dynamic   ; 2016   ; Dizel   ; Yarı Otomatik   ; 1968 cc   ; 190 hp   ;110000; 17 Kasım 2020   ;396000
+ Audi   ; A3   ; A3 Sportback 1.4 TFSI   ; 2008   ; Benzin   ; Düz   ; 1390 cc   ; 125 hp   ;200000; 17 Kasım 2020   ;125500
+ Audi   ; A1   ; 1.4 TFSI Ambition   ; 2011   ; Benzin   ; Yarı Otomatik   ; 1201 - 1400 cm3   ; 101 - 125 HP   ;72000; 17 Kasım 2020   ;157000
+ Audi   ; A4   ; A4 Sedan 1.8   ; 1995   ; LPG & Benzin   ; Düz   ; 1781 cc   ; 125 hp   ;317000; 17 Kasım 2020   ;45000
+ Audi   ; A4   ; A4 Sedan 1.4 TFSI   ; 2016   ; Benzin   ; Yarı Otomatik   ; 1395 cc   ; 150 hp   ;58500; 17 Kasım 2020   ;362000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2014   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 126 - 150 HP   ;248000; 17 Kasım 2020   ;224900
+ Audi   ; A3   ; A3 Sedan 35 TFSI Dynamic   ; 2019   ; Benzin   ; Yarı Otomatik   ; 1401 - 1600 cm3   ; 126 - 150 HP   ;8809; 17 Kasım 2020   ;328500
+ Audi   ; A6   ; A6 Sedan 2.0 TDI   ; 2013   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 176 - 200 HP   ;285000; 17 Kasım 2020   ;340000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI Quattro   ; 2013   ; Dizel   ; Yarı Otomatik   ; 1968 cc   ; 177 hp   ;151000; 17 Kasım 2020   ;286000
+ Audi   ; A6   ; A6 Sedan 2.0 TDI   ; 2012   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 176 - 200 HP   ;185000; 17 Kasım 2020   ;395000
+ Audi   ; A6   ; A6 Sedan 2.0 TDI Quattro   ; 2018   ; Dizel   ; Yarı Otomatik   ; 1968 cc   ; 190 hp   ;55000; 17 Kasım 2020   ;825000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Attraction   ; 2016   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;147000; 17 Kasım 2020   ;249750
+ Audi   ; A6   ; A6 Sedan 2.0 TDI   ; 2011   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 151 - 175 HP   ;239000; 19 Kasım 2020   ;229000
+ Audi   ; A6   ; A6 Sedan 2.0 TDI   ; 2008   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 126 - 150 HP   ;255000; 17 Kasım 2020   ;156500
+ Audi   ; A4   ; A4 Sedan 1.4 TFSI   ; 2017   ; Benzin   ; Yarı Otomatik   ; 1201 - 1400 cm3   ; 126 - 150 HP   ;25000; 16 Kasım 2020   ;466750
+ Audi   ; A6   ; A6 Sedan 2.0 TDI Quattro   ; 2017   ; Dizel   ; Yarı Otomatik   ; 1968 cc   ; 190 hp   ;69862; 16 Kasım 2020   ;735000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Attraction   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 105 hp   ;84518; 16 Kasım 2020   ;245000
+ Audi   ; A6   ; A6 Sedan 2.0 TDI   ; 2008   ; Dizel   ; Otomatik   ; 1968 cc   ; 140 hp   ;310000; 16 Kasım 2020   ;122000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Sport Line   ; 2018   ; Dizel   ; Yarı Otomatik   ; 1401 - 1600 cm3   ; 101 - 125 HP   ;48000; 16 Kasım 2020   ;398000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI Quattro   ; 2013   ; Dizel   ; Yarı Otomatik   ; 1968 cc   ; 177 hp   ;220000; 16 Kasım 2020   ;330000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2010   ; Dizel   ; Otomatik   ; 1968 cc   ; 143 hp   ;219000; 16 Kasım 2020   ;193000
+ Audi   ; A4   ; A4 Sedan 1.4 TFSI   ; 2016   ; Benzin   ; Yarı Otomatik   ; 1395 cc   ; 150 hp   ;44000; 16 Kasım 2020   ;398000
+ Audi   ; A4   ; A4 Sedan 1.6   ; 2001   ; Benzin   ; Düz   ; 1595 cc   ; 102 hp   ;267000; 16 Kasım 2020   ;80000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Dynamic   ; 2016   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;161000; 16 Kasım 2020   ;249999
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Attraction   ; 2014   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;110000; 16 Kasım 2020   ;248000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Dynamic   ; 2017   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 116 hp   ;115000; 16 Kasım 2020   ;273000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI   ; 2014   ; Dizel   ; Yarı Otomatik   ; 1801 - 2000 cm3   ; 126 - 150 HP   ;91500; 16 Kasım 2020   ;299000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Attraction   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;58000; 16 Kasım 2020   ;262000
+ Audi   ; A4   ; A4 Sedan 2.0 TDI Quattro   ; 2015   ; Dizel   ; Yarı Otomatik   ; 1968 cc   ; 177 hp   ;132000; 16 Kasım 2020   ;382000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Dynamic   ; 2016   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 110 hp   ;149000; 16 Kasım 2020   ;263000
+ Audi   ; A4   ; A4 Sedan 1.9 TDI   ; 2004   ; Dizel   ; Düz   ; 1896 cc   ; 130 hp   ;317000; 16 Kasım 2020   ;99000
+ Audi   ; A3   ; A3 Sedan 1.6 TDI Dynamic   ; 2017   ; Dizel   ; Yarı Otomatik   ; 1598 cc   ; 116 hp   ;99000; 16 Kasım 2020   ;276500
