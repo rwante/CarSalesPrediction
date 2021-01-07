@@ -19,7 +19,7 @@ class Ui_MainWindow(object):
         row = pd.DataFrame(row)
         kopya2 = pd.DataFrame(
             {"Marka": 0, "Seri": 0, "Model": 0, "Yil": 0, "Yakit": 0, "Vites": 0, "Motor Hacmi": 0, "Motor Gücü": 0,
-             "Km": 0, "Ilan Tarihi": 0}, index=[0])
+             "Km": 0, "Ilan Tarihi": 0, "Fiyat":0}, index=[0])
 
         for c in df.columns:  # Dosyadaki stringleri sayiya çevirme // Categorical Feature Encoding
             if df[c].dtype == 'object':
@@ -39,7 +39,7 @@ class Ui_MainWindow(object):
         pre_cpy = X.copy()
         X = X.apply(stats.zscore)
         pre_x = kopya2.drop(["Fiyat"], axis=1)
-        pre_y = row['Fiyat']
+        #pre_y = row['Fiyat']
         pre_cpy.loc[15807] = pre_x.loc[0]
         pre_x.loc[0] = pre_cpy.apply(stats.zscore).loc[15807]
 
@@ -67,13 +67,14 @@ class Ui_MainWindow(object):
         self.motorGucu = self.lineEdit_8.text()
         self.km = int(self.lineEdit_9.text())
         self.tarih = self.dateEdit.text()
+        #print(type(self.marka), type(self.km))
         print(self.marka, self.seri, self.model, self.yil, self.yakit, self.vites, self.motorHacmi, self.motorGucu,
               self.km, self.tarih)
 
         self.calculate()
         msg = QtWidgets.QMessageBox()
         msg.setWindowTitle("Car Sales Prediction")
-        msg.setText("Tahmini fiyat: {}".format(self.tahmin))
+        msg.setText("Tahmini fiyat: {}".format(self.tahmin[0]))
         msg.exec()
 
     def setupUi(self, MainWindow):
@@ -259,6 +260,15 @@ class Ui_MainWindow(object):
         self.dateEdit.setDate(QtCore.QDate().currentDate())
         self.dateEdit.setObjectName("dateEdit")
         self.formLayout.setWidget(20, QtWidgets.QFormLayout.FieldRole, self.dateEdit)
+        self.lineEdit.setText("Audi")
+        self.lineEdit_2.setText("A6")
+        self.lineEdit_3.setText("A6 Sedan 2.4")
+        self.lineEdit_4.setText("2005")
+        self.lineEdit_5.setText("LPG & Benzin")
+        self.lineEdit_6.setText("Yarı Otomatik")
+        self.lineEdit_7.setText("2001 - 2500 cm3")
+        self.lineEdit_8.setText("176 - 200 HP")
+        self.lineEdit_9.setText("413000")
         self.pushButton = QtWidgets.QPushButton(self.centralwidget)
         font = QtGui.QFont()
         font.setPointSize(10)
