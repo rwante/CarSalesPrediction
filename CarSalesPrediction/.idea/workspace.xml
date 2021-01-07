@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aed69c0e-fc26-47ed-9731-8cc1386ba2c7" name="Default Changelist" comment="">
+    <list default="true" id="aed69c0e-fc26-47ed-9731-8cc1386ba2c7" name="Default Changelist" comment="DONE!">
       <change beforePath="$PROJECT_DIR$/.idea/CarSalesPrediction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CarSalesPrediction.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -24,6 +24,8 @@
       <change beforePath="$PROJECT_DIR$/7" beforeDir="false" afterPath="$PROJECT_DIR$/7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8" beforeDir="false" afterPath="$PROJECT_DIR$/8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9" beforeDir="false" afterPath="$PROJECT_DIR$/9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelSon.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelSon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/son.py" beforeDir="false" afterPath="$PROJECT_DIR$/son.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.11.8.dist-info/INSTALLER" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.11.8.dist-info/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.11.8.dist-info/METADATA" beforeDir="false" />
@@ -926,11 +928,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/pythonProject1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SurgeryOperation/SurgeryOperation" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.model">
-    <configuration name="Veri_Cekme" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.arayüz">
+    <configuration name="Test-030121" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CarSalesPrediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -943,7 +945,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Veri_Cekme.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test-030121.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -952,7 +954,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="arayüz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CarSalesPrediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -965,7 +967,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arayüz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -974,7 +976,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prediction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="modelTest2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CarSalesPrediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -987,7 +989,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prediction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modelTest2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -996,7 +998,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="son" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CarSalesPrediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1009,7 +1011,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/son.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1018,7 +1020,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test-06012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CarSalesPrediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1031,7 +1033,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test-06012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1042,11 +1044,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.model" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.prediction" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Veri_Cekme" />
+        <item itemvalue="Python.arayüz" />
+        <item itemvalue="Python.test-06012" />
+        <item itemvalue="Python.Test-030121" />
+        <item itemvalue="Python.son" />
+        <item itemvalue="Python.modelTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -1062,7 +1064,12 @@
       <option name="presentableId" value="Default" />
       <updated>1605466388378</updated>
       <workItem from="1606160348388" duration="43473000" />
-      <workItem from="1608568640653" duration="609000" />
+      <workItem from="1608568640653" duration="18499000" />
+      <workItem from="1609523428473" duration="23000" />
+      <workItem from="1609690602015" duration="3817000" />
+      <workItem from="1609755573631" duration="5942000" />
+      <workItem from="1609849006054" duration="476000" />
+      <workItem from="1609962541483" duration="14322000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1606401522651</created>
@@ -1071,7 +1078,35 @@
       <option name="project" value="LOCAL" />
       <updated>1606401522651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ADD Model">
+      <created>1608572184653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608572184653</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit Son.py">
+      <created>1608714841773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608714841836</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1610032330815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610032330815</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DONE!">
+      <created>1610033623270</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610033623270</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1090,66 +1125,81 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD Model" />
+    <MESSAGE value="Commit Son.py" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="DONE!" />
+    <option name="LAST_COMMIT_MESSAGE" value="DONE!" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610030117206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1610030117206" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606344061062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606344061062" />
-    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1606401519746">
+    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1610033620992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606401519746" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606401639363">
+    <state x="268" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610033620992" />
+    <state x="550" y="119" key="EnvironmentVariablesDialog" timestamp="1610030106188">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606401639363" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1606401641339">
+    <state x="550" y="119" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1610030106188" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1610030272257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606401641339" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1606401641338">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610030272257" />
+    <state width="1323" height="130" key="GridCell.Tab.0.bottom" timestamp="1610035254363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606401641338" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1606401641338">
+    <state width="1323" height="130" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610035254363" />
+    <state width="1323" height="130" key="GridCell.Tab.0.center" timestamp="1610035254363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606401641338" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1606401641338">
+    <state width="1323" height="130" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610035254363" />
+    <state width="1323" height="130" key="GridCell.Tab.0.left" timestamp="1610035254363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606401641338" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1606401641339">
+    <state width="1323" height="130" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610035254363" />
+    <state width="1323" height="130" key="GridCell.Tab.0.right" timestamp="1610035254363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606401641339" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1606401641339">
+    <state width="1323" height="130" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610035254363" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1610033213391">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1606401641339" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1606401641339">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610033213391" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1610033213391">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1606401641339" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1606401641339">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1610033213391" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1610033213391">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606401641339" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1606160488235">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1610033213391" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1610033213391">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606160488235" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606401538847">
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1610033213391" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1610030287124">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606401538847" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610030287124" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1610033629431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610033629431" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606219465566">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1606219465566" />
+    <state x="235" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610032929124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="235" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1610032929124" />
     <state x="263" y="19" key="editAsTableFormatDialogDimension" timestamp="1606308452802">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -1162,8 +1212,15 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CarSalesPrediction$Veri_Cekme.coverage" NAME="Veri_Cekme Coverage Results" MODIFIED="1606218198886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CarSalesPrediction$model.coverage" NAME="model Coverage Results" MODIFIED="1606349742203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CarSalesPrediction$son.coverage" NAME="son Coverage Results" MODIFIED="1608753091861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CarSalesPrediction$modelTest2.coverage" NAME="modelTest2 Coverage Results" MODIFIED="1608641365024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CarSalesPrediction$Test_030121.coverage" NAME="Test-030121 Coverage Results" MODIFIED="1609694395195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CarSalesPrediction$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1606345725150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CarSalesPrediction$modelSon.coverage" NAME="modelSon Coverage Results" MODIFIED="1608576231318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CarSalesPrediction$modelTest.coverage" NAME="modelTest Coverage Results" MODIFIED="1608640853140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CarSalesPrediction$test_06012.coverage" NAME="test-06012 Coverage Results" MODIFIED="1610034901957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CarSalesPrediction$prediction.coverage" NAME="prediction Coverage Results" MODIFIED="1606344461950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CarSalesPrediction$arayüz.coverage" NAME="arayüz Coverage Results" MODIFIED="1610035254355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CarSalesPrediction$test.coverage" NAME="test Coverage Results" MODIFIED="1606343598353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
